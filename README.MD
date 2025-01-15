@@ -52,11 +52,10 @@ This Python script automates the process of uploading image files from a local d
    In the root of your project, create a `.env` file to store your credentials and other configuration details:
 
    ```ini
-   API_URL=https://your-api-endpoint.com
-   IMAGE_UPLOAD_URL=https://your-upload-endpoint.com
-   AUTH_API_URL=https://your-auth-endpoint.com
-   USERNAME=your-username
-   PASSWORD=your-password
+    EMAIL=<value>
+    PASSWORD=<value>
+    PROD_BASE_URL=<value>
+    DEV_BASE_URL=<value>
    ```
 
 5. **Run the script**:
