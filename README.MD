@@ -61,7 +61,7 @@ This Python script automates the process of uploading image files from a local d
 5. **Run the script**:
 
    ```bash
-   python upload_script.py
+   python main.py
    ```
 
 ## **Usage**
